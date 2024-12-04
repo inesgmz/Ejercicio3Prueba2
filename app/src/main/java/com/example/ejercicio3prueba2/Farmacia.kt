@@ -5,8 +5,8 @@ data class Farmacia(
     var direccion: String? = null,
     var latitud: Double? = null,
     var longitud: Double? = null,
-    var telefono: String? = null // Add this line
+    var telefono: String? = null
 ) {
-    // No-argument constructor required for Firebase
+
     constructor() : this(null, null, null, null, null)
 }
