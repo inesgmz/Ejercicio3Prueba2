@@ -44,15 +44,5 @@ Este proyecto es una aplicación de Android que muestra una lista de farmacias y
 ### `item_farmacia.xml`
 - **Descripción**: Layout de cada elemento de la lista de farmacias, que incluye un `TextView` para el nombre y el teléfono, y un `ImageView` para el logo.
 
-## Dependencias
 
-- `osmdroid`: Biblioteca para trabajar con OpenStreetMap en Android.
-- `Firebase`: Servicios de Firebase para la base de datos en tiempo real.
-- `Glide`: Biblioteca para cargar imágenes.
-
-## Configuración
-
-- **Firebase**: Configurar el archivo `google-services.json` con los datos del proyecto de Firebase.
-- **Gradle**: Añadir las dependencias necesarias en el archivo `build.gradle`.
-
-URL: 
+URL: https://github.com/inesgmz/Ejercicio3Prueba2.git
