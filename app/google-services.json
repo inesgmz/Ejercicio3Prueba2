@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "217160896006",
+    "firebase_url": "https://ejercicio3prueba2-default-rtdb.firebaseio.com",
+    "project_id": "ejercicio3prueba2",
+    "storage_bucket": "ejercicio3prueba2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217160896006:android:8210d8bdb06ab9ffbd7d87",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio3prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoLmzDLcuIyTkxXLx8YXPnOUeTowAeRzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
